@@ -1,6 +1,6 @@
 # TB3 enabler #
 
-##https://github.com/rgov/Thunderbolt3Unblocker/##
+## https://github.com/rgov/Thunderbolt3Unblocker/ ##
 
 **[Ryan Govostes](https://github.com/rgov) came up with a better solution. [Thunderbolt3Unblocker](https://github.com/rgov/Thunderbolt3Unblocker) uses a separate kext and override `IOThunderboltFamily` in runtime. That approach is better because you don't need to manually re-apply the binary patch everytime when there is a macOS update.**
 
